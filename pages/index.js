@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+      <script src="https://cdn.tailwindcss.com"></script>
       </Head>
 
       <main>
